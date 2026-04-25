@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Omoyeni Taiwo 👋
 
-<!--
-**Taiwotimman/Taiwotimman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare Data Analyst with a background in Physiotherapy.
 
-Here are some ideas to get you started:
+## 🔍 Focus Areas
+- Clinical Audit (NHS-style)
+- Service Improvement
+- Healthcare Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+Python | SQL | Power BI | Excel
+
+## 📊 Current Projects
+- Stroke Rehabilitation Clinical Audit (in progress)
+- Waiting Time Optimization (coming soon)
+
+## 📫 Connect with me
+LinkedIn: https://linkedin.com/in/yourprofile
