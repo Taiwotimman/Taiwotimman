@@ -29,8 +29,8 @@ An end-to-end population health analytics project:
 - **8 production-grade SQL queries** with CTEs and window functions
 - **Interactive 4-tab dashboard** embedded in portfolio
 
-→ [View Dashboard](projects/population-health/dashboard/index.html)  
-→ [View Project README](projects/population-health/README.md)
+→ [View Dashboard](https://taiwotimman.github.io/pop-health-folder)  
+→ [View Repo & README](https://github.com/Taiwotimman/pop-health-folder)
 
 ---
 
