@@ -19,7 +19,7 @@ Healthcare Data Analyst and Clinical Researcher with a background in Physiothera
 
 ## 📁 Projects
 
-### 01 · Population Health Readmission Risk Intelligence ✅ LIVE
+### 01 · Population Health Readmission Risk Dashboard ✅ LIVE
 
 An end-to-end population health analytics project:
 - **2,000** synthetic EHR discharge records with ICD-10 classification
@@ -42,7 +42,7 @@ Power BI dashboard and logistic regression model from Lagoon Hospital contract.
 
 ### 03 · Diabetes Risk Modelling & Behavioural Intervention _(Coming Soon)_
 
-Public health intervention study from Obafemi Awolowo University.
+Public health study from Obafemi Awolowo University.
 
 ---
 
