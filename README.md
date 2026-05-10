@@ -6,12 +6,14 @@ Healthcare Data Analyst with a background in Physiotherapy and proven experience
 - Clinical Audit
 - Service Optimization
 - Evidence-Based Practice
-- Machine Learning Workflow 
+- Machine Learning Workflow
+- Translational Research
+- Data Annotation
 
 ## 🛠 Tools
 Python | SQL | Power BI | Excel
 
-## 📊 Current Projects
+## 📊 Upcoming Projects
 - Stroke Rehabilitation Clinical Audit (coming soon)
 - Patient Waiting Time Prediction Using Machine Learning(coming soon)
 - NHS Workforce and Staffing Analytics(coming soon ) 
